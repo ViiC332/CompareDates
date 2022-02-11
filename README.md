@@ -25,3 +25,6 @@ This extension was to compare to two data, help (Minutes, Hours, Days, Weeks, Mo
  Third ~> Weeks.<br>
  Four ~> Months.<br>
  Five ~> Years.
+ 
+ # Example
+ ![Screenshot_20220210-222018](https://user-images.githubusercontent.com/67504503/153523796-2573e48b-568b-4264-9d1a-8000072d2e4f.png)
